@@ -1,0 +1,20 @@
+{
+  "name": "spellbook",
+  "version": "0.0.1",
+  "description": "Will help manage information needed by casters in D&D 3.5e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests not specified\" && exit 1"
+  },
+  "keywords": [
+    "D&D",
+    "react"
+  ],
+  "author": "Ganonside",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
